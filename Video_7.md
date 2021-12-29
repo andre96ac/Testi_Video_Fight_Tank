@@ -20,7 +20,7 @@
 - maturazione del fondo (bentos + bolle d'aria)
 - Presenza di animali vari sulle rocce (spirografi copepodi spugne granchietto macroalghe)
 
-#
+dfsfsfsf
 
 ## Modifiche / migliorie / cose che sono state fatte
 
