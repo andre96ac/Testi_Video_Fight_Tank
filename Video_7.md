@@ -80,9 +80,9 @@ Vero alexa?
 
 Per avere un'idea sull'andamento della maturazione, abbiamo effettuato tutti quanti i test: Ammoniaca, Nitriti, Nitrati, Fosfati, Silicati, Calcio, Magnesio e Kh.
 
-...per fortuna, molti di questi non saranno più necessari...
+...per fortuna,salvo casi particolari, molti di questi non saranno più necessari...
 
-Per quanto riguarda gli inquinanti, tutto nella norma: i test hanno registrato valori sostanzialmente non rilevabili, confermando la riuscita della maturazione.
+Per quanto riguarda gli inquinanti, tutto nella norma: i test hanno registrato valori sostanzialmente non rilevabili, confermando così la riuscita della maturazione.
 
 <br>
 
@@ -152,19 +152,17 @@ Durante la maturazione non siamo stati con le mani in mano: abbiamo fatto tutto 
 ## Inserimenti
 
 
-Finalmente siamo pronti per l'inserimento di qualche bestiolina, non vedevamo l'ora ehh...
-senza ombra di dubbio come prima cosa ci servivano degli inquilini utili oltre che carini <3, della fauna che ci potesse aiutare a ripulire al meglio da tutte quelle alghe che si ereano formate in maturazione.
-La squadra pulizie era dunque formata! 
-
 Passati circa 50 giorni, è venuto il momento dei primi inserimenti. non vedevate l'ora vero? ...beh, noi di sicuro! :)
-Il popolamento di un dsb deve essere effettuato con estrema cautela, ed è necessario evitare assolutamente animali predatori come gamberi, paguri, stelle, e lumache carnivore. Noi, siamo andati sul sicuro, e nonappena l'abbassamento di ammoniaca e nitriti lo ha consentito, abbiamo inserito la classica "squadra pulizie" composta da 10 lumache - 3 turbo fluctuosa, 3 trochius radiatus, 1 acastrea tecta, e 3 ceritium - 1 riccio, il lytechinus variegatus, e un granchio Mitrax; Tutti animali erbivori e perfettamente sicuri. Il mitrax, in particolare ci darà una mano a tenere sotto controllo la poca valonia presente in vasca, mentre le ceritium, che sono per natura lumache scavatrici, contribuiranno a smuovere il fondo, mantenendolo soffice e arieggiato
+Il popolamento di un dsb deve essere effettuato con estrema cautela, ed è necessario evitare assolutamente animali predatori come gamberi, paguri, stelle, e lumache carnivore. Noi siamo andati sul sicuro, e nonappena l'abbassamento di ammoniaca e nitriti lo ha consentito, abbiamo inserito la classica "squadra pulizie" composta da 10 lumache - 3 turbo fluctuosa, 3 trochius radiatus, 1 acastrea tecta, e 3 ceritium - 1 riccio, il lytechinus variegatus, e un granchio, il famosissimo Mitrax; Tutti animali erbivori e assolutamente reef-safe. Il mitrax, in particolare ci darà una mano a tenere sotto controllo la poca valonia presente in vasca, mentre le ceritium, che sono per natura lumache scavatrici, contribuiranno a smuovere il fondo, mantenendolo soffice e arieggiato
+
 
 <br>
 
 <br>
 
 ## Saluti finali
-Anche per oggi è tutto! 
+Anche per oggi è tutto!  Lasciamo  i nostri amici a maturare insieme alla vasca ancora per un po' di tempo; presto la famiglia si allargherà.
+
 
 Vi ricordo, come sempre, di lasciare un bel pollicione in su, iscrivervi al canale, e colpire la campanella degli avvisi.
 Vi lascio al prossimo appuntamento "cinematico" tra due settimane, nel quale vedremo il nostro cubo un po piu' da vicino; 
