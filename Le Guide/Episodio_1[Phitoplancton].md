@@ -8,7 +8,6 @@
 <br>
 
 ## Testo
-<hr>
 
 
 
@@ -89,7 +88,6 @@ Bene, direi che abbiamo parlato fin troppo, è tempo di sporcarci le mani! spost
 <br>
 
 ## Scaletta
-<hr>
 
 1) Cos'è
 2) Benefici / perchè coltivarlo
@@ -170,7 +168,6 @@ Bene, direi che abbiamo parlato fin troppo, è tempo di sporcarci le mani! spost
 
 
 ## Trivia
-<hr>
 
 1) Il fitoplancton produce inoltre la metà dell'ossigeno totale prodotto dagli organismi vegetali della Terra.
 2) Il fitoplancton costituisce circa il 95% della biomassa degli oceani
