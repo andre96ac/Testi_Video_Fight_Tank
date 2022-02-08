@@ -56,29 +56,123 @@ Presto un video sull'allevamento dello zooplancton.
 
 Abbiamo quindi visto i numerosi vantaggi della somministrazione di fitoplancton negli acquari di barriera, ma rimane una domanda: Per quale motivo allevarlo in casa? 
 ...Fino a pochi anni fa, trovare in vendita il fitoplancton nei negozi di acquariofilia era pressochè impossibile, ma piano piano le cose stanno cambiando, ed oggi è diventato abbastanza semplice reperirlo; per questo motivo l'acquisto in negozio, a prima vista, può sembrare la scelta più pratica e conveniente, ma spesso così non è: in condizioni normali, per una vasca da 100lt, è possibile arrivare a dosare anche 100-200ml di fito al giorno, e con un prezzo che può oscillare tra i 10 e i 20€ al litro, l'acquisto in negozio diventa spesso molto dispendioso, oltre che scomodo.
-Per questo, nella maggior parte dei casi, la scelta migliore è la coltivazione casalinga, che non necessita di particolari attrezzature, e se vengono adottati i giusti accorgimenti risulta piuttosto semplice.
+Nella maggior parte dei casi quindi , la scelta migliore è la coltivazione casalinga, che non necessita di particolari attrezzature, e se vengono adottati i giusti accorgimenti risulta piuttosto semplice.
+
+<br>
+
+
+### Occorrente
+Appurato quindi che la coltivazione casalinga è l'opzione migliore, vediamo di cosa abbiamo bisogno: la prima cosa che ci serve è uno starter, ovvero del fitoplancton già pronto, acquistato in negozio, o recuperato da una coltura prcedente, che servirà da base per la nostra coltura; non ne serve molto: 500ml o anche meno, saranno più che sufficienti. Per quanto riguarda la specie, al giorno d'oggi le possibilità di scelta sono abbastanza ampie: presso i negozi, o i più famosi store online ne sono in vendita numerose tipologie, ciascuna con le proprie peculiarità, ma normalmente le più utilizzate sono le varietà di Nannochloropsis; queste, effettivamente, a livello nutrizonale  non rappresentano l'opzione migliore, ma sono le più semplici da allevare, e svolgono comunque bene la loro funzione.
+
+Per ospitare la nostra coltura avremo bisogno di un contenitore dalle dimensioni abbastanza generose, minimo 3-4 litri. Le dimensioni del contenitore sono direttamente proporzionali alla quantità di fito che otterrete dalla coltura, quindi scegliete attentamente, considerando anche  che, maggiori saranno le dimensioni, più facile sarà il mantenimento di condizioni dell'acqua stabili al suo interno, con conseguente diminuzione delle probabilità di un collasso della coltura. Nel nostro caso, un contenitore da quattro litri ci consentirà di raccogliere circa 2 litri di fito ogni 10gg.
+
+Ci servirà poi una fonte di illuminazione per fornire alle alghe l'energia necessaria per crescere e riprodursi; lo spettro da utilizzare è quello classico degli acquari d'acqua dolce, ovvero tra i 4000 ed i 6500K. per quanto riguarda la potenza, non è necessario esagerare: per il nostro contenitore da 4lt noi utilizziamo abitualmente una piccola plafoniera led da 7W con luce a 6500k con ottimi risultati! 
+
+Oltre a starter, luce e contenitore, avremo poi bisogno di un'areatore per mantenere l'acqua in movimento, un riscaltatore con termostato per mantere una temperatura stabile di 25°, ma soprattutto, un fertilizzante apposito per colture di fitoplancton; quest'ultimo fornirà alle nostre alghe  il nutrimento necessario per crescere e moltiplicarsi. Aggiungiamo che in molti hanno sperimentato, a volte anche con successo, l'utilizzo di prodotti sostitutivi come per esempio il normale fertilizzante per piante d'appartamento; tuttavia noi riteniamo che il rischio di introdurre nella coltura - e quindi poi in acquario - sostanza dannose ed indesiderate, sia troppo alto, e per questo, consigliamo sempre di optare per prodotti specifici e destinati all'uso acquariofilo.
+
+
+<br>
+
+### Spiegazione - Avvio coltura
+Recuperato tutto l'occorrente, vediamo cosa faremo: Il procedimento di coltura che utilizzeremo, chiamato metodo del raddoppio è abbastanza semplice, e consiste essenzialmente nel "diluire" lo starter con una uguale quantità di acqua precedentemente salata e fertilizzata. le alghe, esposte alla luce ed al fertilizzante, in pochi giorni si moltiplicheranno, ripristinando la concentrazione iniziale, e permettendoci quindi di effettuare una nuova diluizione. 
+
+<br>
+
+### Accorgimenti
+
+ATTENZIONE! La coltivazione del fito, come abbiamo detto, è in sè molto semplice, ma bisogna fare attenzione ad alcuni aspetti, ed il più importante è sicuramente EVITARE LE CONTAMINAZIONI {{scandire bene!}}. L'introduzione di microorganismi indesiderati infatti, ha come effetto sicuro il collasso della coltura, e per questo è ASSOLUTAMENTE FONDAMENTALE  sterilizzare ogni attrezzatura  che verrà a contatto con il fito, con acqua bollente o tramite l'utilizzo di lampade uv; allo stesso modo, anche l'acqua che utilizzeremo dovrà essere precedentemente sterilizzata tamite bollitura.
+Sempre allo scopo di evitare le contaminazione, è necessario che il contenitore utilizzato sia munito di tappo, e che lo stesso sia ben aderente.
+
+
+Altra cosa da tenere a mente: non esagerare con il fertilizzante: i prodotti specifici sono molto concentrati, e ne bastano piccole quantità; spesso la tentazione di aumentare un po' le dosi nella speranza di ottenere un colore ancora più verde è forte; ma bisogna essere scrupolosi nel rispettare le indicazioni del produttore! addirittura meglio sottostimare un po', perchè un eccesso di fertilizzante, oltre ad essere dannoso per la coltura stessa, non verrebbe consumato, e finirebbe poi in vasca, innalzando nitrati e fosfati.
+
+Infine, particolare attenzione andrà anche all'acqua: utilizzeremo esclusivamente acqua osmotica, salata con sale apposito per acquari marini, ad una concentrazione di 35ppm; anche se può sembrare la scelta più logica, l'uso di acqua prelevata dall'acquario è assolutamente sconsigliato, a causa dell'altissimo rischio di contaminazione.
+
+
+Bene, direi che abbiamo parlato fin troppo, è tempo di sporcarci le mani! spostiamoci in cucina, e vediamo come fare!
+
+
+<br>
+
+
+### Procedimento - Avvio coltura 
+
+
+4) Procedimento avvio coltura {{In cucina}}
+   1) Preparazione Acqua (magari averla già preparata)
+   2) Fertilizzazione
+   3) Diluizione starter
+   4) Messa in coltura
+      1) parlare della temperatura
+      2) parlare dell'aereatore senza pietra porosa
+
+
+<br>
+
+
+### Tempistiche di maturazione
+
+Il nostro fitoplancton  è in coltura! ora dovremo solo attendere che maturi. All'inizio non accadrà nulla, ma già dopo pochi giorni dovreste notare un'intensificazione del verde della soluzione, segno che le microalghe si stanno moltiplicando.
+Purtroppo, non è possibile dare un'indicazione precisa del tempo di maturazione necessario, perche quest'ultimo può variare notevolmente in base a numerosi fattori, primo tra tutti la temperatura. In generale, possono essere necessari dai 5 ai 15 giorni, e l'unico modo che abbiamo per decidere quando raccogliere è valutare il colore, che dovrà essere di un verde estremamente scuro  ed intenso, tale da non far quasi passare la luce. Nel dubbio è sempre meglio attendere qualche giorno in più, in modo da consentire il completo assorbimento di tutto il fertilizzante, altamente inquinante, che altrimenti, anche in questo caso potrebbe finire in vasca.
+Qualora la coltura, anzichè sul verde, dovesse virare verso il giallo o il marrone, significa che probabilmente è contaminata, e che stà collassando; in questo caso, purtroppo, sarà necessario buttarla, disinfettare accuratamente il contenitore, e ricominciare.
+
+<br>
+
+
+### Spiegazione - Raccolta
+
+Come vedremo tra poco in cucina, anche il processo di raccolta è molto semplice: dovremo rifare ciò che abbiamo già fatto all'avvio, e quindi "diluire" il fito con una uguale quantità di acqua nuova salata e fertilizzata. Per le prime due/3 volte ci limiteremo semplicemente a rabboccare, successivamente, quando la coltura avrà raggiunto un volume sufficiente, inizieremo effettivamente  a raccoglierene la metà, compensando con l'acqua nuova.
+
+<br>
+
+### Accorgimenti 
+Anche durante le fasi di rabbocco, sarà vitale evitare le contaminazioni e non esagerare con il fertilizzante; inoltre, bisognerà prestare particolare attenzione alla salinità della coltivazione che con l'evaporazione potrebbe essere aumentata. Sarà sufficiente quindi misurarne un campione con un comune rifrattometro, ed eventualmente, adeguare la salinità dell'acqua di rabbocco di conseguenza.
+
+<br>
+
+
+### Possibilità di collasso
+
+Un'ultima precisazione riguardo alla coltivazione: a volte, nonostante tutte le nostre accortezze, è possibile che una coltura collassi improvvisamente senza un motivo preciso; è una cosa normale, e capita a tutti; per questo alcuni preferiscono mantenere due colture contemporaneamente, in modo da averne sempre una di riserva. Noi ci limitiamo a conservare un po' di fito extra in frigorifero, per utilizzarlo come starter di una nuova coltura, qualora ce ne fosse bisogno.
+
+Detto questo, è tempo di raccolto - o meglio, di rabbocco! -  spostiamoci di nuovo in cucina, e vediamo il procedimento
+
+<br>
+
+### Procedimento - Raccolta
+
+A questo punto quindi avremmo dovuto aspettare giorni, ma, come nei migliori programmi di cucina, noi ne abbiamo preparato uno già pronto
+
+6) Procedimento raccolta {{In cucina}}
+   1) Preparazione Acqua (magari averla già preparata)
+   2) Fertilizzazione
+   3) Raccolta e diluizione
+   4) Messa in coltura
 
 
 
+<br>
 
 
+### Utilizzo
+
+Bene, ora che abbiamo coltivato con successo il nostro fitoplancton, vediamo come utilizzarlo:
+Non vi sono dosi precise per la somministrazione in vasca, anche perchè, se la coltura è stata fatta correttamente, e tutto il fertilizzante è stato consumato, il fito non inquina, ed è quindi possibile dosarlo in quantità elevate senza alcun effetto. In generale,  seconda dei casi, è possibile arrivare anche a 100 o addirittura 200 ml al giorno per 100lt d'acqua, ma noi vi suggeriamo di iniziare con dosi più moderate - intorno ai 50ml per 100litri - e valutare la risposta del sistema.
+L'unica accortezza da adottare sarà spegnere preventivamente lo schiumatoio, che altrimenti ne asporterebbe buona parte in pochissimo tempo. 
+
+Nel caso in cui abbiate prodotto più fito di quello che vi serve, invece, non preoccupatevi: potrete conservarlo tranquillamente in frigorifero anche per diversi mesi, con l'accortezza di squoterlo ogni tanto per evitarne la sedimentzaione che lo farebbe marcire.
+Come vi abbiamo anticipato prima, qualora la vostra coltura dovesse collassare, potrete usare il fito conservato come starter per iniziarne una nuova.
+
+<br>
 
 
+### Finale
 
+Anche oggi siamo giunti alla fine! fateci sapere nei commenti qui sotto se la nostra miniguida vi è piaciuta, e soprattutto, se vi è stata utile!
 
+Come sempre, ci vediamo tra due settimane con un nuovo video; rimarremo sempre in tema "marno" con una nuova guida... 
 
-
-Bene, direi che abbiamo parlato fin troppo, è tempo di sporcarci le mani! spostiamoci in cucina, e vediamo come fare
-
-
-
-
-
-
-
-
-
-
+Un salutone a tutti da Charid... Ciaoo
 <br>
 <br>
 <br>
@@ -105,12 +199,7 @@ Bene, direi che abbiamo parlato fin troppo, è tempo di sporcarci le mani! spost
 3) Informazioni sulla coltivazione
    1) Perchè allevarlo
    2) Quale varietà
-   3) Come funziona l'allevamento
-   4) tipi di allevamento
-   5) Accorgimenti
-      1) Acqua e utensili sterili
-      2) Non esagerare con il fertilizzante
-   6) Occorrente
+   3) Occorrente
       1) Contenitore
       2) Aereatore, con tubi e raccordi
       3) Illuminazione
@@ -118,6 +207,11 @@ Bene, direi che abbiamo parlato fin troppo, è tempo di sporcarci le mani! spost
       5) Acqua osmotica
       6) Fertilizzante
       7) Starter
+   4) Come funziona l'allevamento
+   5) tipi di allevamento
+   6) Accorgimenti
+      1) Acqua e utensili sterili
+      2) Non esagerare con il fertilizzante
 
    
 
@@ -128,7 +222,8 @@ Bene, direi che abbiamo parlato fin troppo, è tempo di sporcarci le mani! spost
    2) Fertilizzazione
    3) Diluizione starter
    4) Messa in coltura
-   
+      1) parlare della temperatura
+      2) parlare dell'aereatore senza pietra porosa
    
    
  
