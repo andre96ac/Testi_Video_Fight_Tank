@@ -8,7 +8,6 @@
 <br>
 
 ## Testo
-<hr>
 
 
 
@@ -183,7 +182,6 @@ Un salutone a tutti da Charid... Ciaoo
 <br>
 
 ## Scaletta
-<hr>
 
 1) Cos'è
 2) Benefici / perchè coltivarlo
@@ -265,7 +263,6 @@ Un salutone a tutti da Charid... Ciaoo
 
 
 ## Trivia
-<hr>
 
 1) Il fitoplancton produce inoltre la metà dell'ossigeno totale prodotto dagli organismi vegetali della Terra.
 2) Il fitoplancton costituisce circa il 95% della biomassa degli oceani
