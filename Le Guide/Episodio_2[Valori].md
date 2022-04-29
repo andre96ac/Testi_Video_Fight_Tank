@@ -115,7 +115,7 @@ Difficilmente si rileverà in acquario la presenza di silicati, perchè questi v
 
 #### Ph
 In ultimo ci rimane il Ph. Il Ph è il valore che misura l'acidità di una soluzione; è una scala inversa, per cui un ph basso (da 0 a 6) indicherà acqua acida, mentre un ph alto (da 8 a 14), indicherà un'acqua basica.
-Per l'acquario marino, l'ideale sarebbe mantenere un'acqua relativamente basica, con ph tra 8 e 8.5, mentre, se scendiamo al di sotto del 7.5, 
+Per l'acquario marino, l'ideale è mantenere un'acqua relativamente basica, tra 8 e 8.5, mentre se scendiamo al di sotto del 7.5, la salute degli animali può essere a rischio.
 Il problema principale del ph, consiste nel fatto che non esistono metodi diretti per modificarlo, perchè lo stesso è strettamente dipendente da altri fattori, tra i quali spiccano il kh, ed il contenuto di CO2 disciolta 
 Per questi motivi, il ph, più che un valore a se stante, dovrebbe essere considerato come un indicatore generale dello stato della vasca.
 Qualora dovessimo rilevare un'acqua troppo acida, posto di avere già un valore di kh corretto, l'unica operazione possibile è intervenire sull'ossigenazione, in modo da eliminare il più possibile la CO2 disciolta. Aumentare il movimento superficiale dell'acqua, utilizzare un refugium, ed installare uno scrubber di co2 sono solo alcuni dei metodi possibili.
