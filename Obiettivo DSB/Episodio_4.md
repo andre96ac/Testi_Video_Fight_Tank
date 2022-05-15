@@ -54,20 +54,18 @@ Bene Bando alle ciance, abbiamo aspettato fin troppo; vediamo un po' questi nuov
 
 
 #### Molli
-Abbiamo iniziato inserendo alcuni molli - più resistenti, ma comunque di pregio - per testare il sistema: nello specifico, stiamo parlando di 3 colonie di zohantus, e due ricordee. Per il posizionamento dei molli, abbiamo optato per l'atollo isolato nella parte posteriore della vasca; in questo modo, sarà più facile tenerne sotto controllo la crescita, qualora dovesse diventare troppo invasiva (eveninenza non così rara per i corallli molli)
+Abbiamo iniziato inserendo alcuni molli - più resistenti, ma comunque di pregio - per testare il sistema: nello specifico, stiamo parlando di 3 colonie di zohantus, e due ricordee. Per il posizionamento dei molli, abbiamo optato per l'atollo isolato nella parte posteriore della vasca; in questo modo, sarà più facile tenerne sotto controllo la crescita, qualora dovesse diventare troppo invasiva (evenienza non così rara per i corallli molli)
 
 {{RIPRESE MOLLI}}
 
 #### LPS
 Appurato che tutto stava funzionando, e che gli animali stavano bene, dopo qualche settimana abbiamo alzato un po' il tiro, e proceduto ad inserire i primi LPS, I veri protagonisti della vasca. Nello specifico, nell'arco di alcune settimane, abbiamo inserito: 
 - Una Catalaphyllia 
-- Un'Euphyllia Parancora ed una Glabenscens
+- Un'Euphyllia Ancora ed una Glabrescens
 - Alcune colonie di Acanthastrea
 - Alcune Caulastree
 - Una Plerogyra
 - Una colonia di Favites
-- (Una Lobopillya)
-- (Una fungia)
 
 {{RIPRESE LPS}}
 
@@ -75,7 +73,7 @@ Appurato che tutto stava funzionando, e che gli animali stavano bene, dopo qualc
 Di pari passo con l'inserimento dei coralli, abbiamo iniziato anche con i pesci, sia per dare (finalmente) un po' di movimento alla vasca, ma anche e soprattutto, "sporcare" un po' l'acqua, ed aiutare il dsb nella maturazione.
 Durante gli ultimi mesi, sono stati inseriti, nell'ordine:
 
-- Una coppia di Oscellaris
+- Una coppia di Ocellaris
 - Un gruppo di 7 Chromis virdis
 - Una coppia di nemateleotris decora (il famosissimo "gobbio di fuoco")
 - Una coppia di Pterapogon kauderni, uno dei quali, purtroppo, è stato protagonista di un brutto incidente con una pompa di movimento
