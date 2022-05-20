@@ -25,7 +25,6 @@
       - [Procedimento - Messa in coltura](#procedimento---messa-in-coltura)
       - [Procedimento - Gestione ed alimentazione](#procedimento---gestione-ed-alimentazione)
       - [Procedimento - Raccolta](#procedimento---raccolta)
-    - [Allevamento - Pratica in cucina](#allevamento---pratica-in-cucina)
     - [Conclusioni](#conclusioni)
   - [Scaletta](#scaletta)
 
@@ -115,20 +114,23 @@ Per la raccolta, dovremo utilizzare un setaccio di dimensioni adatte (circa 180m
 Infine, dopo la raccolta, non ci rimarrà che rabboccare la coltura con acqua salata nuova in quantità uguale a quella prelevata, e continuare ad alimentare normalmente fino al momento del raccolto successivo.
 
 
-
+<!-- 
 ### Allevamento - Pratica in cucina
 Ora che abbiamo le basi, è giunto il momento di un po' di pratica: spostiamoci in cucina, e vediamo come preparare un allevamento di successo:
 
 
-{{In cucina}}
+{{In cucina}} -->
+
 
 
 
 ### Conclusioni
+E questo era tutto; in effetti, come abbiamo visto, allevare zooplancton è molto semplice, basta solo la voglia di farlo.
+E voi? ci avete mai provato? Raccontateci le vostre esperienze nei commenti. 
+Come sempre speriamo che il video vi sia piaciuto, e che vi sia utile
+io vi do appuntamento tra due settimane con un nuovo video; un salutone a tutti da Sharin...
+Ciaooo
 
-Anche per oggi abbiamo finito; come sempre speriamo che il video vi sia piaciuto, e che vi sia utile se anche voi voleste provare a coltivare da soli il vostro zooplancton. Come sempre vi ricordo che per qualsiasi domanda, dubbio, o se volete semplicemente darci un parere sul video, potete lasciarci un commento qui sotto.
-Io vi do appuntamento tra due settimane con un nuovo video; un salutone a tutti da Sharin...
-Ciaooooo
 
 
 <br>
