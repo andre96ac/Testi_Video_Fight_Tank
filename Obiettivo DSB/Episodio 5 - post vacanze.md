@@ -35,7 +35,7 @@ Ciao a tutti, e ben tornati nel nostro meraviglioso mondo sommerso, sono Sharin!
 Eccoci quindi con un nuovo video, il primo di questa seconda stagione! {{mettere cose di festa}}
 Visto il periodo, quale argomento migliore del rientro post vacanze? Oggi vogliamo parlarvi degli accorgimenti che abbiamo adottato con il nostro cubo in previsione di una lunga assenza, ma soprattutto, di come abbiamo ripulito il "disastro" che abbiamo trovato, dopo aver lasciato la vasca da sola per nientemeno che... ben 5 settimane. 
 Tutto questo, come sempre, dopo la sigla
-
+ 
 {{Sigla}}
 
 <br>
