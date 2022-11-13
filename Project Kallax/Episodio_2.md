@@ -67,7 +67,7 @@ Naturalmente non è tutto oro quel che luccica: i vantaggi ci sono, e sono inneg
 <br>
 
 ### Concept vasca
-Alla luce di quanto detto, vediamo quindi il progetto: stiamo parlando di una vasca in extra chiaro delle dimensioni di **20*20*20cm**, con una capacità di 21 litri lordi.
+Alla luce di quanto detto, vediamo quindi il progetto: stiamo parlando di una vasca in extra chiaro delle dimensioni di 36*23*26cm, con una capacità di 21 litri lordi.
 Trattandosi di una vasca così piccola, la parola d'ordine per questo allestimento sarà semplicità: non utilizzeremo sump, schiumatoio, filtro, o altre diavolerie; ma solo lo stretto indispensabile: acqua, luce, calore e movimento; e la filtrazione non sarà affidata ad altro che alle rocce vive.
 Un approccio di questo tipo è reso possibile dal fatto che la vasca non ospiterà pesci (che comunque in questo litraggio sarebbero altamente sconsigliati), ma solo coralli con poche pretese (molli o lps), ed eventualmente qualche gamberetto. 
 
@@ -75,7 +75,7 @@ Un approccio di questo tipo è reso possibile dal fatto che la vasca non ospiter
  
 ### Allestimento
 
-Naturalmente, **come la tradizione di Fight Tank ci impone, eravamo in ritardo sulla tabella di marcia {{oppure: sullo sceduling, e il montaggio ringrazia + scena montaggio}}**, e quindi abbiamo dovuto acquistare tutto in fretta e furia, ed imbarcarci in un pellegrinaggio di due giorni tra negozi di acquari per trovare ciò che ci serviva.  
+Naturalmente, come la tradizione di Fight Tank ci impone, eravamo in ritardo  sullo sceduling, e il montaggio ringrazia +{{ scena montaggio}}, e quindi abbiamo dovuto acquistare tutto in fretta e furia, ed imbarcarci in un pellegrinaggio di due giorni tra negozi di acquari per trovare ciò che ci serviva.  
 **Alla fine è arrivato il fatidico momento, e così, un mercoledì mattina, alle 7.30, con ben poche ore di sonno alle spalle, e malanni di stagione vari che giravano, ci siamo trovati in quel misterioso luogo della periferia Milanese per concludere la nostra opera.
 **
 {{Ripresa caffè di rito}}
@@ -94,7 +94,7 @@ Dopo le rocce, abbiamo posizionato la tecnica, ovvero il riscaldatore, collegato
 
 #### Riscaldatore
 
-Riguardo al riscaldatore c'è poco da dire: si tratta di un semplicissimo **Newa Therm mini da 10W** pretarato a 25 gradi; è molto piccolo e discreto, e ben si adatta ad una vasca di queste dimensioni. Il termostato elettronico di cui è dotato dovrebbe essere esente da blocchi e malfunzionamenti, ma per non sbagliare, lo abbiamo comunque collegato ad un termostato esterno.
+Riguardo al riscaldatore c'è poco da dire: si tratta di un semplicissimo Askoll Therm mini da 10W pretarato a 25 gradi; è molto piccolo e discreto, e ben si adatta ad una vasca di queste dimensioni. Il termostato elettronico di cui è dotato dovrebbe essere esente da blocchi e malfunzionamenti, ma per non sbagliare, lo abbiamo comunque collegato ad un termostato esterno.
 
 #### Movimento
 
