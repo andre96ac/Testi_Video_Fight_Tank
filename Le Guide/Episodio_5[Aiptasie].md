@@ -68,9 +68,9 @@ Quelle che normalmente chiamiamo Aiptasie, sono piccoli animali appartenenti all
 Le aiptasiaidee, a loro volta, sono suddivise in più generi, tra i quali, due in particolare Aiptasie ed Exaiptasie raccolgono tutte le specie genericamente chiamate dagli acquariofili aiptasie.
 
 
-Per spiegare meglio la classificazione, abbiamo speso ore di tempo a fare un grafico che paragona la suddivisione delle Aiptasiaidee a quella dei Felidi (di cui fa parte il gatto domestico per capirci), ma che - ne siamo certi - non chiarirà le cose più di tanto.
+Per spiegare meglio la classificazione, e per complicarci la vita, abbiamo speso ore di tempo a fare un grafico che paragona la suddivisione delle Aiptasiaidee a quella dei Felidi (di cui fa parte il gatto domestico per capirci).
 
-- E si, come i più attenti avranno notato, effettivmamente la pantera non è un animale, ma un genere - {{vedere se fare uno sketch}}
+- E si, come i più attenti avranno notato, effettivmamente la pantera non è un animale, ma un genere - {{vedere se fare uno sketch}}. Ci dispiace Baghera.
 
 <br>
 
@@ -224,7 +224,7 @@ Per spiegare meglio questo concetto, e capire come e perchè le aiptasie possono
 ### Conclusioni
 
 Bene, anche per oggi è tutto, ci teniamo a ringraziamo nuovamente Chiara, oltre che ovviamente l'università, per la bellissima ed interessante chiaccherata che abbiamo avuto, e anche per le immagni che vi abbiamo mostrato, tutte riprese in laboratorio.
-Se siete curiosi, e volete saperne di più sul lavoro di Chiara, oltre che su tutto quello che sucede in un laboratorio di biologia marina, vi anticipo subito che tra due settimane uscirà l'intervista integrale... Non perdetela!   
+Se siete curiosi, e volete saperne di più sul lavoro di Chiara, oltre che su tutto quello che sucede in un laboratorio di biologia marina, vi anticipo subito che tra due video uscirà l'intervista integrale... Non perdetela!   
 
 Appuntamento al prossimo video; un salutone a tutti da Sharin, Ciaooooooooo!!
 
